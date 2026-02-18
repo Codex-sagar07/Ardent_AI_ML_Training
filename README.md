@@ -163,9 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@Codex-sagar07](https://github.com/Codex-sagar07)
-- LinkedIn: [Sagar Bera](www.linkedin.com/in/
-sagar-bera-37a4ba34a
-)
+- LinkedIn: [Sagar Bera](www.linkedin.com/in/sagar-bera/)
 
 ---
 
