@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Mentor
 
 **Your Name**
-- GitHub: [@codex_Sagar](https://github.com/programmer-sahil)
+- GitHub: [@Codex-sagar07](https://github.com/programmer-sahil)
 - LinkedIn: [Sagar](https://linkedin.com/in/programmer-sahil)
 
 ---
